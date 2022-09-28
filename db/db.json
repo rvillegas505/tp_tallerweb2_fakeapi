@@ -1,0 +1,49 @@
+{
+    "productos": [
+        {"id": 1,
+        "nombre": "Queso",
+        "precio": 500
+        },
+        {"id": 2,
+        "nombre": "Fideos",
+        "precio": 130
+        },
+        {"id": 3,
+        "nombre": "Arroz",
+        "precio": 120
+        },
+        {"id": 4,
+        "nombre": "Sal fina",
+        "precio": 82
+        },
+        {"id": 5,
+        "nombre": "Papas fritas",
+        "precio": 300
+        },
+        {"id": 6,
+        "nombre": "Sopa Instantanea",
+        "precio": 262
+        },
+        {"id": 7,
+        "nombre": "Mayonesa",
+        "precio": 167
+        },
+        {"id": 8,
+        "nombre": "Aceitunas 90g",
+        "precio": 240
+        },
+        {"id": 9,
+        "nombre": "Harina 1kg",
+        "precio": 110
+        },
+        {"id": 10,
+        "nombre": "Alfajores x6 u",
+        "precio": 340
+        }
+    
+    
+    
+    
+    
+    ]
+}
